@@ -7,3 +7,5 @@ And Replace link info on "HOMEPAGE=" to "https://github.com/avlisiur78/i10bw/tre
 
 So it should look like "HOMEPAGE="https://github.com/avlisiur78/i10bw/tree/main/i10bw/"
 
+
+Tested and working on cube i10-bw
